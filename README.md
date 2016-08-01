@@ -1,7 +1,7 @@
-  http://herv2.com
+  http://www.avtai.com
   
-  http://veryv2.com
+  http://www.avtai1.com
   
-  http://sisv2.com
+  http://www.avtai2.com
   
-  http://v2fry.com
+  http://www.avtai3.com
